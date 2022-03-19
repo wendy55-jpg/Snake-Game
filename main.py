@@ -10,7 +10,6 @@ screen.bgcolor("black")
 screen.title("Snake Game")
 screen.tracer(0)
 
-
 snake = Snake()
 food = Food()
 score = Scoreboard()
